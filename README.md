@@ -1,0 +1,3 @@
+- 👋 Hello, I’m @RawCalcium
+- 👀 I’m interested in games, anime, nature and of course, programming.
+- 🌱 I’m currently learning c# in unity and python

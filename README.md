@@ -1,3 +1,3 @@
-- 👋 Hello, I’m @RawCalcium
+- 👋 Hello, I’m @RawCalcium or real name Nick, I'm from sweden and I'm fluent in both english and swedish
 - 👀 I’m interested in games, anime, nature and of course, programming.
-- 🌱 I’m currently learning c# in unity and python
+- 🌱 I’m currently learning c# in unity
